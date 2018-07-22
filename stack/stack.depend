@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1532185752 source:c:\users\christian\desktop\stack\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"stack.h"
+
+1532185701 c:\users\christian\desktop\stack\stack.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+

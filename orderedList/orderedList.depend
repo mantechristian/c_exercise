@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1532267179 source:c:\users\christian\desktop\orderedlist\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"orderedList.h"
+
+1532264752 c:\users\christian\desktop\orderedlist\orderedlist.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
